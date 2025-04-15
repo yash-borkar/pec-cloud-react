@@ -18,6 +18,6 @@ artifacts:
   files:
     - dist/**/*
     #- src/**/*
-    #- package.json
-    #- appspec.yml
-    #- scripts/**/*
+    - package.json
+    - appspec.yml
+    - scripts/**/*
