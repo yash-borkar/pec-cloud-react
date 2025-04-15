@@ -19,5 +19,5 @@ artifacts:
     - dist/**/*
     #- src/**/*
     - package.json
-    - appspec.yml
+    - appspec.yaml
     - scripts/**/*
