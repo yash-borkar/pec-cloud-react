@@ -1,5 +1,5 @@
 #!/bin/bash
 cd /var/www/html
 ls -la
-cp -arp build/. . && rm -rf build
+cp -arp dist/. . && rm -rf dist
 service httpd restart
